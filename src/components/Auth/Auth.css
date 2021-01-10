@@ -1,0 +1,18 @@
+.auth{
+    width: 380px;
+    margin: 100px auto 0 auto ;
+    
+}
+.auth_btn{
+    width: 200px;
+    background: #06a1e6 0 0 no-repeat padding-box;
+    border-radius: 4px;
+    height: 35px;
+    color: white;
+    box-shadow: 0 3px 6px rgba(6,161,230,.4);
+
+}
+.auth_btn~a{
+    display: block;
+    margin: 15px 0px 0px 0px ;
+}
